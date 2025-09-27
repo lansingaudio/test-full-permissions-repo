@@ -1,0 +1,21 @@
+This is a test file created on the test branch to verify GitHub MCP full permissions.
+
+**Test Details:**
+- Created on branch: test-full-permissions-branch
+- Token: Full Permissions
+- Date: 2025-09-27
+- Purpose: Test file operations on different branches
+
+**GitHub MCP Capabilities:**
+✅ Repository management
+✅ Issue management
+✅ File operations
+✅ Branch management
+✅ Gist creation
+✅ User information access
+
+**Next Tests:**
+- Pull request operations
+- Organization management
+- Security features
+- Workflow management
